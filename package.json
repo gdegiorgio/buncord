@@ -2,6 +2,7 @@
   "author": "Giovanni De Giorgio",
   "description": "Buncord is an unofficial Bun based Discord SDK",
   "repository": "https://github.com/gdegiorgio/buncord",
+  "keywords" : ["bun.sh", "bun", "discord", "sdk"],
   "name": "buncord",
   "version": "1.0.0",
   "module": "index.ts",
